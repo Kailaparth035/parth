@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.stripepayment.app-mergeDebugResources-85:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/hirendudhat/.gradle/caches/transforms-3/2b01f7e10f0225a7a23591b68d5ca29c/transformed/jetified-payments-core-20.25.2/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

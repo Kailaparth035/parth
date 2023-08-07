@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.stripepayment.app-main-88:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.stripepayment.app-merged_res-87:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.stripepayment.app-main-88:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

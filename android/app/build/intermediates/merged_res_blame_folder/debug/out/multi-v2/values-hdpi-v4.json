@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.stripepayment.app-mergeDebugResources-85:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/hirendudhat/.gradle/caches/transforms-3/2b01f7e10f0225a7a23591b68d5ca29c/transformed/jetified-payments-core-20.25.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                },
+                {
+                    "source": "/Users/hirendudhat/.gradle/caches/transforms-3/e7a13cdad2590aa9422e09640675dac7/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "119",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "391"
+                    }
+                }
+            ]
+        }
+    ]
+}
